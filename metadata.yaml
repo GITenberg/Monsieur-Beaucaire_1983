@@ -1,5 +1,8 @@
 _repo: Monsieur-Beaucaire_1983
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -18,6 +21,8 @@ description: Throughout history, bit players on the sidelines have somehow becom
   happens to the eponymous protagonist of Booth Tarkington's novel, Monsieur Beaucaire.
   This humble barber to the French ambassador to England finds himself at the center
   of a scandalous love triangle. Will Beaucaire be able to emerge with his honor intact?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1983#Monsieur-Beaucaire
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
